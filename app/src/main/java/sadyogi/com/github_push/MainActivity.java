@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         int d = 40;
 
         String ss = "Hello";
+        String dev = "true";
     }
 }
